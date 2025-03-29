@@ -1,4 +1,4 @@
-# About
+# About project
 
 1. Create minimal Account Abstraction on Ethereum
 2. Create minimal Account Abstraction on ZKsync
